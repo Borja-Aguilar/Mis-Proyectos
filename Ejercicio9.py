@@ -2,7 +2,7 @@ import os
 os.system("cls")
 import sys
 
-# Ejercicio 10 – Notas, media y mensaje
+# Ejercicio 9 – Notas, media y mensaje
 # Pide al usuario tres notas de un estudiante.
 # Calcula si aprueba todas (nota >= 5 cada una).
 # Calcula la media de las notas.
